@@ -26,5 +26,12 @@
         "name": "Milk",
         "purchased": true
       }
+    },
+    {
+      "model": "shopping_list.ShoppingItem",
+      "fields": {
+        "name": "Carrot",
+        "purchased": false
+      }
     }
   ]
